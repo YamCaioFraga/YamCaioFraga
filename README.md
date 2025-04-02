@@ -1,4 +1,4 @@
-# 👋 Olá, sou [Seu Nome]!
+# 👋 Olá, sou Yam Caio!
 
 💻 Desenvolvedor / Entusiasta de Tecnologia  
 📚 Apaixonado por aprender e compartilhar conhecimento  
@@ -7,21 +7,21 @@
 ---
 
 ## 🚀 Sobre mim:
-- 🎯 Focado em: aprender linguagens de programação, como: python, java  
-- 🌱 Atualmente aprendendo **[tecnologia que está estudando, ex: React, Python]**  
-- 🔥 Interessado em **[assuntos que gosta, ex: Inteligência Artificial, Cloud Computing]**  
-- 💬 Me pergunte sobre **[tecnologias que domina]**  
+- 🎯 Focado em: aprender linguagens de programação, como: python, java. 
+- 🌱 Atualmente aprendendo: Desenvolvimento full stack.  
+- 🔥 Interessado em: Banco de dados, Inteligência Artificial. 
+- 👋 Focado em aumentar meu conhecimento.  
 
 ---
 
 ## 📫 Onde me encontrar:
- 
-📧 **E-mail:** [seu-email@email.com](mailto:seu-email@email.com)  
+ 🔗 Instagram: ()
+ 📧 E-mail: ()
 
 ---
 
 ## ⚡ Tecnologias e Ferramentas:
-🚀  
+- 🚀 
 
 
 ---
