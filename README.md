@@ -1,7 +1,8 @@
 # 👋 Olá, sou Yam Caio!
 
-💻 Desenvolvedor / Entusiasta de Tecnologia  
-📚 Apaixonado por aprender e compartilhar conhecimento  
+💻 Desenvolvedor Full-Stack, com especialização em Blockchain. <br>
+💻 Técnico em informática / Cursando ciências da Computação.<br>
+📚 Apaixonado por aprender e compartilhar conhecimento.   
 🚀 Explorando novas tecnologias e construindo projetos incríveis  
 
 ---
@@ -15,13 +16,14 @@
 ---
 
 ## 📫 Onde me encontrar:
- 🔗 Instagram: ()
- 📧 E-mail: ()
+ 🔗 Instagram: (https://www.instagram.com/yam_cfc/) <br>
+ 📧 E-mail: (yamcontarato@gmail.com)
 
 ---
 
 ## ⚡ Tecnologias e Ferramentas:
-- 🚀 
+- 🚀 utilizando o Visual Code para aprender HTML5, CSS, Java-Script, Python.
+ 
 
 
 ---
