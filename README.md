@@ -11,7 +11,7 @@
 - 🎯 Focado em: aprender linguagens de programação, como: python, java. 
 - 🌱 Atualmente aprendendo: Desenvolvimento full stack.  
 - 🔥 Interessado em: Banco de dados, Inteligência Artificial. 
-- 👋 Focado em aumentar meu conhecimento.  
+- 👋 objetivo de aumentar meu conhecimento, dentro da área da tecnologia.  
 
 ---
 
